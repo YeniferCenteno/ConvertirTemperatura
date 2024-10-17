@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yenif\\source\\repos\\YECG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB337DA1-33C2-434F-98D4-45ECAFB55626}|YECG.Temperatura\\YECG.Temperatura.csproj|c:\\users\\yenif\\source\\repos\\yecg\\yecg.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB337DA1-33C2-434F-98D4-45ECAFB55626}|YECG.Temperatura\\YECG.Temperatura.csproj|solutionrelative:yecg.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "YECG.Temperatura\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura\\TemperatureConverter.cs",
+              "RelativeToolTip": "YECG.Temperatura\\TemperatureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:24:49.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

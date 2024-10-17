@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yenif\\source\\repos\\YECG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E5650A5-28D6-4C46-82A1-325AA838BA6B}|YECG.Temperatura.UnitTestxUnit\\YECG.Temperatura.UnitTestxUnit.csproj|c:\\users\\yenif\\source\\repos\\yecg\\yecg.temperatura.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5650A5-28D6-4C46-82A1-325AA838BA6B}|YECG.Temperatura.UnitTestxUnit\\YECG.Temperatura.UnitTestxUnit.csproj|solutionrelative:yecg.temperatura.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}|YECG.Temperatura.UnitTestMSTest\\YECG.Temperatura.UnitTestMSTest.csproj|c:\\users\\yenif\\source\\repos\\yecg\\yecg.temperatura.unittestmstest\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}|YECG.Temperatura.UnitTestMSTest\\YECG.Temperatura.UnitTestMSTest.csproj|solutionrelative:yecg.temperatura.unittestmstest\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB337DA1-33C2-434F-98D4-45ECAFB55626}|YECG.Temperatura\\YECG.Temperatura.csproj|c:\\users\\yenif\\source\\repos\\yecg\\yecg.temperatura\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB337DA1-33C2-434F-98D4-45ECAFB55626}|YECG.Temperatura\\YECG.Temperatura.csproj|solutionrelative:yecg.temperatura\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB337DA1-33C2-434F-98D4-45ECAFB55626}|YECG.Temperatura\\YECG.Temperatura.csproj|c:\\users\\yenif\\source\\repos\\yecg\\yecg.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura\\StringManipulator.cs",
+              "RelativeDocumentMoniker": "YECG.Temperatura\\StringManipulator.cs",
+              "ToolTip": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura\\StringManipulator.cs",
+              "RelativeToolTip": "YECG.Temperatura\\StringManipulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:10:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StringManipulatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura.UnitTestxUnit\\StringManipulatorTest.cs",
+              "RelativeDocumentMoniker": "YECG.Temperatura.UnitTestxUnit\\StringManipulatorTest.cs",
+              "ToolTip": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura.UnitTestxUnit\\StringManipulatorTest.cs*",
+              "RelativeToolTip": "YECG.Temperatura.UnitTestxUnit\\StringManipulatorTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:07:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TemperatureConverterTests.cs",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
               "RelativeDocumentMoniker": "YECG.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
               "ToolTip": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
               "RelativeToolTip": "YECG.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T04:45:59.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TemperatureConverter.cs",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\YECG\\YECG.Temperatura\\TemperatureConverter.cs",
               "RelativeDocumentMoniker": "YECG.Temperatura\\TemperatureConverter.cs",

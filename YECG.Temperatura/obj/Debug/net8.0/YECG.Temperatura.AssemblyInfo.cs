@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YECG.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcf6b17aa2ceb6dae1695b204abf5f090ebdb1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a693301a97c2a5ed8727098f1d0fe39539d3d183")]
 [assembly: System.Reflection.AssemblyProductAttribute("YECG.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YECG.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

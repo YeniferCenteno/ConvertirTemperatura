@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YECG.Temperatura", "YECG.Temperatura\YECG.Temperatura.csproj", "{EB337DA1-33C2-434F-98D4-45ECAFB55626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YECG.Temperatura.UnitTestMSTest", "YECG.Temperatura.UnitTestMSTest\YECG.Temperatura.UnitTestMSTest.csproj", "{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YECG.Temperatura.UnitTestMSTest", "YECG.Temperatura.UnitTestMSTest\YECG.Temperatura.UnitTestMSTest.csproj", "{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YECG.Temperatura.UnitTestxUnit", "YECG.Temperatura.UnitTestxUnit\YECG.Temperatura.UnitTestxUnit.csproj", "{9E5650A5-28D6-4C46-82A1-325AA838BA6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF3F62C-2A02-46AD-B9D2-E363DF5AB372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5650A5-28D6-4C46-82A1-325AA838BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5650A5-28D6-4C46-82A1-325AA838BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5650A5-28D6-4C46-82A1-325AA838BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5650A5-28D6-4C46-82A1-325AA838BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
